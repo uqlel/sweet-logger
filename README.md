@@ -1,6 +1,6 @@
 # Sweet Logger - a nice logger for your projects!
 
-<a href="https://www.npmjs.com/package/sweet-logger"><img src="https://img.shields.io/npm/v/sweet-logger.js.svg?maxAge=3600" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/sweet-logger"><img src="https://img.shields.io/npm/v/sweet-logger.svg?maxAge=3600" alt="NPM version" /></a>
 <a href="https://www.npmjs.com/package/sweet-logger"><img src="https://img.shields.io/npm/dt/sweet-logger.svg?maxAge=3600" alt="NPM downloads" /></a>
 <a href="https://github.com/uqlel/sweet-logger/"><img src="https://img.shields.io/github/repo-size/uqlel/sweet-logger" alt="Repo Size" /></a>
 <a href="https://github.com/uqlel/sweet-logger/"><img src="https://img.shields.io/github/last-commit/uqlel/sweet-logger" alt="Last Commit" /></a>
