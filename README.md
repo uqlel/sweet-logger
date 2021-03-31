@@ -59,3 +59,5 @@ For help, contact me on Discord: [uQlel but better#3129](https://discord.com/use
 ## Contributing
 
 You can add something to this package and help me, pull requests are welcome on Github Repository: https://github.com/uqlel/sweet-logger
+
+*README inspired by the discord.js module*
