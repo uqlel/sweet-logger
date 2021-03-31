@@ -1,0 +1,28 @@
+{
+  "name": "sweet-logger",
+  "version": "1.0.0",
+  "description": "A nice logger for your projects!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uqlel/sweet-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "console.log"
+  ],
+  "author": "uQlel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uqlel/sweet-logger/issues"
+  },
+  "homepage": "https://github.com/uqlel/sweet-logger#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1"
+  }
+}
