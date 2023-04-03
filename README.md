@@ -54,7 +54,7 @@ npm install sweet-logger
 
 ## Help
 
-For help, contact me on Discord: [uQlel but better#3129](https://discord.com/users/822461337120538654), or by e-mail: root@uqlel.cf
+For help, contact me on Discord: uQlel#9256, or by e-mail: eqd9pvyf@duck.com
 
 ## Contributing
 
