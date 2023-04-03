@@ -9,7 +9,8 @@
 
 ![npm stats](https://nodei.co/npm/sweet-logger.png?downloads=true&stars=true)
 
-<h1><b>This project is abandoned, I won't update it anymore</b></h1>
+<h1><b>This project is abandoned</b></h1>
+It won't be maintained anymore. If you wan't to maintain it, create a fork and contact me on Discord: uQlel#9256, or by e-mail: eqd9pvyf@duck.com so I will  link it there.
 
 ## Table of contents
 - [Installation](#installation)
