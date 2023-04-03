@@ -9,6 +9,8 @@
 
 ![npm stats](https://nodei.co/npm/sweet-logger.png?downloads=true&stars=true)
 
+# **This project is abandoned, I won't update it anymore**
+
 ## Table of contents
 - [Installation](#installation)
 - [Example usage](#example)
