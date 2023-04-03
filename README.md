@@ -9,7 +9,7 @@
 
 ![npm stats](https://nodei.co/npm/sweet-logger.png?downloads=true&stars=true)
 
-# **This project is abandoned, I won't update it anymore**
+<h1><b>This project is abandoned, I won't update it anymore</b></h1>
 
 ## Table of contents
 - [Installation](#installation)
